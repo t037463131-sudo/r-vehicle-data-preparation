@@ -1,0 +1,7 @@
+Executed vehicle_project.R using R 4.6.1 against the supplied course CSV.
+Input: 34,631 rows, 74 columns.
+Output: 34,631 rows, 76 columns.
+No rows removed in this snapshot.
+Natural-log and square-root output values were independently checked for all rows.
+Mean comb08: 19.79353758193526.
+No predictive model or normality improvement was evaluated.
